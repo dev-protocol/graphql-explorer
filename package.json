@@ -4,7 +4,7 @@
 	"description": "Template repository for using TypeScript",
 	"main": "index.js",
 	"scripts": {
-		"start": "serve src",
+		"start": "serve public",
 		"lint": "prettier --write '**/*.{js,json,md,yml,html}'"
 	},
 	"author": "",
