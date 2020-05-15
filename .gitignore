@@ -95,3 +95,5 @@ local.settings.json
 
 # use yarn as a package manager
 package-lock.json
+
+.vercel
