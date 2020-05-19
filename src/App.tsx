@@ -128,6 +128,7 @@ class App extends Component<Record<string, unknown>, State> {
 				? def.name.value
 				: 'unknown'
 
+		// eslint-disable-next-line @typescript-eslint/restrict-template-expressions
 		const selector = `.graphiql-explorer-root #${operationKind}-${operationName}`
 
 		const el = document.querySelector(selector)

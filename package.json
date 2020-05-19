@@ -7,7 +7,7 @@
 		"start": "parcel public/index.html",
 		"build": "parcel build public/index.html",
 		"lint": "yarn lint:eslint && yarn lint:format",
-		"lint:eslint": "eslint . --ext .ts,.js --fix",
+		"lint:eslint": "eslint . --ext .ts,.tsx,.js --fix",
 		"lint:format": "prettier --write '**/*.{js,json,md,yml,html}'"
 	},
 	"author": "",
