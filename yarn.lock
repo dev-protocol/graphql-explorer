@@ -2341,10 +2341,10 @@ eslint-config-prettier@6.11.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-config-xo-typescript@0.29.0:
-  version "0.29.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-xo-typescript/-/eslint-config-xo-typescript-0.29.0.tgz#386918a4b87774554eab5cf7a979d98e87474485"
-  integrity sha512-K7AVshnOHWEf0eLIMQCppIN8hC9kazz5NeGxCP85OaopQ8gRjL3OkpMo3envN8aSm6SPIkW74Y1yfc48LFeFzg==
+eslint-config-xo-typescript@0.30.0:
+  version "0.30.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-xo-typescript/-/eslint-config-xo-typescript-0.30.0.tgz#a3e65e8ceb1b3a1f6031d41b52147142d710aa00"
+  integrity sha512-qkCT/CBpuZcRb/fkN+FGyMLRfpP2Qq9TUBoJfP+DwzsG05QJi5iv7tg4Df9LJCaMfKMJLCYdw3clG0H6aPcFjg==
 
 eslint-config-xo@0.29.1:
   version "0.29.1"
