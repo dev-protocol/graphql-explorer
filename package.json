@@ -31,7 +31,7 @@
 		"eslint-plugin-prettier": "3.4.0",
 		"husky": "6.0.0",
 		"parcel": "1.12.4",
-		"prettier": "2.2.1",
+		"prettier": "2.3.0",
 		"typescript": "4.2.4"
 	},
 	"husky": {
