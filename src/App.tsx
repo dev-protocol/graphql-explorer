@@ -18,7 +18,7 @@ import type { GraphQLSchema } from 'graphql'
 async function fetcher(
 	params: Record<string, unknown>
 ): Promise<Record<string, unknown>> {
-	return fetch('https://api.devprtcl.com/v1/graphql', {
+	return fetch('https://api.devprotocol.xyz/v1/graphql', {
 		method: 'POST',
 		headers: {
 			Accept: 'application/json',
