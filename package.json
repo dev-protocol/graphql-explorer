@@ -29,7 +29,7 @@
 		"eslint-config-xo": "0.39.0",
 		"eslint-config-xo-typescript": "0.45.2",
 		"eslint-plugin-prettier": "4.0.0",
-		"husky": "7.0.2",
+		"husky": "7.0.4",
 		"parcel": "1.12.4",
 		"prettier": "2.4.1",
 		"typescript": "4.4.4"
