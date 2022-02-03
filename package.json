@@ -14,7 +14,7 @@
 	"license": "MPL-2.0",
 	"dependencies": {
 		"graphiql": "^1.0.0",
-		"graphiql-explorer": "^0.6.2",
+		"graphiql-explorer": "^0.8.0",
 		"graphql": "16.3.0",
 		"react": "^17.0.0",
 		"react-dom": "^17.0.0"
