@@ -3336,10 +3336,10 @@ grapheme-breaker@^0.3.2:
     brfs "^1.2.0"
     unicode-trie "^0.3.1"
 
-graphiql-explorer@^0.6.2:
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/graphiql-explorer/-/graphiql-explorer-0.6.2.tgz#ea81a8770e3e68c2a97fe849b294bad94ed509e3"
-  integrity sha512-hYSM+TI/0IAXltMOL7YXrvnA5xrKoDjjN7qiksxca2DY7yu46cyHVHG0IKIrBozMDBQLvFOhQMPrzplErwVZ1g==
+graphiql-explorer@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/graphiql-explorer/-/graphiql-explorer-0.8.0.tgz#50d4c1866d9be8f4a1355de636277244f24f9ed6"
+  integrity sha512-HAgFyJzLlMV9QvomlOaFS4CPg4m/9x/punBEBuH4Qnc593xkxZP78zvpwIVDDFcqFeo8T7/MIKR9qzh1H2uvnw==
 
 graphiql@^1.0.0:
   version "1.5.16"
