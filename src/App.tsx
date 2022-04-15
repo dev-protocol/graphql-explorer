@@ -26,10 +26,8 @@ async function fetcher(
 		},
 		body: JSON.stringify(params),
 	})
-		.then(async function (response) {
-			return response.text()
-		})
-		.then(async function (responseBody) {
+		.then(async (response) => response.text())
+		.then(async (responseBody) => {
 			try {
 				return JSON.parse(responseBody)
 			} catch (e) {
@@ -127,15 +125,15 @@ class App extends Component<Record<string, unknown>, State> {
 				: def.kind === 'FragmentDefinition' && Boolean(def.name)
 				? def.name.value
 				: 'unknown'
-
-		// eslint-disable-next-line @typescript-eslint/restrict-template-expressions
 		const selector = `.graphiql-explorer-root #${operationKind}-${operationName}`
 
 		const el = document.querySelector(selector)
 		el?.scrollIntoView()
 	}
 
-	_handleEditQuery = (query: string): void => this.setState({ query })
+	_handleEditQuery = (query: string): void => {
+		this.setState({ query })
+	}
 
 	_handleToggleExplorer = (): void => {
 		this.setState({ explorerIsOpen: !this.state.explorerIsOpen })
