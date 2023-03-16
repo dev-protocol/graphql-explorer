@@ -28,7 +28,7 @@
 		"eslint-config-prettier": "8.5.0",
 		"eslint-config-xo": "0.42.0",
 		"eslint-config-xo-typescript": "0.53.0",
-		"husky": "8.0.1",
+		"husky": "8.0.3",
 		"parcel": "2.7.0",
 		"prettier": "2.7.1",
 		"typescript": "4.8.4"
